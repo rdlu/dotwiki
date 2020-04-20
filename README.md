@@ -1,5 +1,7 @@
 # dotwiki
-Using the github wiki to store useful info
+Welcome to the rdlu dotwiki!
+
+Check my new Wiki here: [docs.codeforlife.club](//docs.codeforlife.club)
 
 
-https://github.com/rdlu/dotwiki/wiki
+I will store quick tips and tricks, like TILs.
